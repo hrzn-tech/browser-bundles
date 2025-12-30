@@ -1,0 +1,10 @@
+# Don't commit large binaries - they go in GitHub Releases
+*.zip
+*.tar.gz
+*.dmg
+*.exe
+*.msi
+
+# OS files
+.DS_Store
+Thumbs.db

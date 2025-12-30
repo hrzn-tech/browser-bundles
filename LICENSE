@@ -1,0 +1,18 @@
+Mozilla Public License Version 2.0
+==================================
+
+This repository contains pre-built browser binaries redistributed under
+their original open source licenses.
+
+Camoufox Browser
+----------------
+License: Mozilla Public License 2.0 (MPL-2.0)
+Source: https://github.com/daijro/camoufox
+Full license: https://www.mozilla.org/en-US/MPL/2.0/
+
+The MPL-2.0 license permits redistribution of binaries provided that:
+- The license is included
+- Copyright notices are preserved
+- Source code modifications (if any) are disclosed
+
+These binaries are provided as-is for use with Horizon applications.
