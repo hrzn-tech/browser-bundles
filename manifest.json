@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2025-12-28T20:05:00.000Z",
+  "camoufox": {
+    "version": "135.0.1-beta.24",
+    "platforms": {
+      "win-x64": {
+        "url": "https://download.dev.hrznbot.com/binaries/camoufox/camoufox-135.0.1-beta.24-win.x86_64.zip",
+        "sha256": "7b8dd86d9d26fa71e7d8809e311d16223dc74bff2c7feb2a7e7f8b7e8ccdf206",
+        "size": 530375905
+      }
+    }
+  }
+}
